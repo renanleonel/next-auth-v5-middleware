@@ -21,7 +21,7 @@ This repository uses react and react-dom in canary versions.
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/renanleonel/next-auth.git
+git clone https://github.com/renanleonel/next-auth-v5-middleware.git
 ```
 
 ### Install packages

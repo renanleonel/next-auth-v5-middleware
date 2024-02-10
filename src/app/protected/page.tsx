@@ -5,8 +5,6 @@ import { Button } from '@/components/ui/button';
 const Protected = async () => {
 	const session = await auth();
 
-	session?.user?.email;
-
 	return (
 		<form
 			action={logout}
